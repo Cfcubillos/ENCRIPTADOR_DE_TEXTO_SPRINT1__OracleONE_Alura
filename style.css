@@ -50,12 +50,11 @@ main{
 ::placeholder { color: #0A3871; }
 
 .text-area:focus {
-    height: 300px;
     outline: none;
     }
 
 .mensaje{
-    height: 630px;
+    height: 430px;
     background: white;
     background-image: url("/imagenes/Muñeco.png");
     background-repeat: no-repeat;
